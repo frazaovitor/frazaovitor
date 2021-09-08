@@ -1,5 +1,9 @@
 # Seja Bem Vindo(a) ao meu perfil!
-## Vitor da Silva Frazão
+
+[MEU PERFIL](#01)  |  [TECNOLOGIAS] |  [ESTUDANDO]  |  [FORMAÇÃO]  | [PRINCIPAIS TRABALHOS]
+
+
+ <h2 id="01"> Vitor da Silva Frazão</h2>
 
 > :older_man: 33
 > <br>
