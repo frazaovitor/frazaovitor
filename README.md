@@ -5,7 +5,7 @@
 > <br>
 > :earth_americas: Rio de Janeiro
 > <br>
-> 	:e-mail: Email
+> 	:e-mail: frazaovitor@gmail.com
 > <br>
 > [Linkedin](https://www.linkedin.com/in/vitor-frazão)
 
