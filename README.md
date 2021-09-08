@@ -55,7 +55,7 @@
 
 ## Principais Trabalhos
  - :file_folder:Landing Page Avix Camisaria
-    > [Repositório](https://github.com/frazaovitor/Projeto-AVIX)
+    > <a href="https://github.com/frazaovitor/Projeto-AVIX" target="_blank"> Repositório </a>
     > <br>
     > [Página no pages](https://frazaovitor.github.io/Projeto-AVIX/)
     > <br>
