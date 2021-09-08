@@ -16,15 +16,23 @@
  - :file_folder:HTML5
     > Bootstrap
     > <br>
+    > Resposividade
 
  - :file_folder:CSS 3 
     > SCSS
 
  - :file_folder:JavaScript 
     > jQuery 
-    > 
+
  - :file_folder:Wordpress
     > e-commerce
 
 
 ## Estudando e aprimorando
+ - :file_folder:JavaScript 
+    > jQuery
+    > <br>
+    > React Next
+    > <br>
+    > React Native
+    
