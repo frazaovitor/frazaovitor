@@ -1,6 +1,6 @@
 # Seja Bem Vindo(a) ao meu perfil!
 
-[MEU PERFIL](#nome)  |  [TECNOLOGIAS](#tecUtilizadas) |  [ESTUDANDO]  |  [FORMAÇÃO]  | [PRINCIPAIS TRABALHOS]
+[MEU PERFIL](#nome)  |  [TECNOLOGIAS](#tecUtilizadas) |  [ESTUDANDO](#estudando)  |  [FORMAÇÃO](#formacao) | [PRINCIPAIS TRABALHOS](#trabalhos)
 
 <h2 id="nome"></h2>
 
@@ -16,7 +16,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frazaovitor)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazaovitor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- <h2 id="tecUtilizadas">Tecnologias mais utilizadas atualmente</h2>
+<h2 id="tecUtilizadas"></h2>
+
+## Tecnologias mais utilizadas atualmente
  - :file_folder:HTML5
     > Bootstrap
     > <br>
@@ -31,6 +33,7 @@
  - :file_folder:Wordpress
     > e-commerce
 
+<h2 id="estudando"></h2>
 
 ## Estudando e aprimorando
  - :file_folder:JavaScript 
@@ -40,9 +43,13 @@
     > <br>
     > React Native
 
+<h2 id="formacao"></h2>
+
 ## Formação
   - :file_folder:SENAC
      >Tecnologia da Informação 2020
+
+<h2 id="trabalhos"></h2>
 
 ## Principais Trabalhos
  - :file_folder:Landing Page Avix Camisaria
