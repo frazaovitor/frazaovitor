@@ -47,6 +47,10 @@
     > [Página no pages](https://frazaovitor.github.io/Projeto-AVIX/)
     > <br>
     > [Página do Cliente](https://www.avix.tk/)
+    > <br>
+ ![image](https://user-images.githubusercontent.com/51264703/128527386-c8f37c79-c0d6-4b12-9ba2-5cd5df7b0462.png)
 
-
-
+ - :file_folder:Landing Template 01 :construction: Em Construção
+    > [Repositório](https://github.com/frazaovitor/template01)
+    > <br>
+    > [Página no pages](https://frazaovitor.github.io/template01/) *Somente em mobile*
