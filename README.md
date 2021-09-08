@@ -1,5 +1,8 @@
 <h2 id="home"></h2>
 
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
+
 # Seja Bem Vindo(a) ao meu perfil!
 
 [MEU PERFIL](#nome)  :heavy_minus_sign:  [TECNOLOGIAS](#tecUtilizadas) :heavy_minus_sign:  [ESTUDANDO](#estudando)  :heavy_minus_sign:  [FORMAÇÃO](#formacao) :heavy_minus_sign: [PRINCIPAIS TRABALHOS](#trabalhos)
