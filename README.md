@@ -1,9 +1,9 @@
 # Seja Bem Vindo(a) ao meu perfil!
 
-[MEU PERFIL](#01)  |  [TECNOLOGIAS] |  [ESTUDANDO]  |  [FORMAÇÃO]  | [PRINCIPAIS TRABALHOS]
+[MEU PERFIL](#nome)  |  [TECNOLOGIAS](#tecUtilizadas) |  [ESTUDANDO]  |  [FORMAÇÃO]  | [PRINCIPAIS TRABALHOS]
 
 
- <h2 id="01"> Vitor da Silva Frazão</h2>
+ <h2 id="nome"> Vitor da Silva Frazão</h2>
 
 > :older_man: 33
 > <br>
@@ -16,7 +16,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frazaovitor)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazaovitor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias mais utilizadas atualmente
+ <h2 id="tecUtilizadas">Tecnologias mais utilizadas atualmente</h2>
  - :file_folder:HTML5
     > Bootstrap
     > <br>
