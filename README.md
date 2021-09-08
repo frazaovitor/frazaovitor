@@ -3,8 +3,8 @@
 [MEU PERFIL](#nome)  |  [TECNOLOGIAS](#tecUtilizadas) |  [ESTUDANDO]  |  [FORMAÇÃO]  | [PRINCIPAIS TRABALHOS]
 
 <h2 id="nome"></h2>
- ## Vitor da Silva Frazão
 
+## Vitor da Silva Frazão
 > :older_man: 33
 > <br>
 > :earth_americas: Rio de Janeiro
