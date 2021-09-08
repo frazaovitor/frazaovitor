@@ -1,8 +1,5 @@
 <h2 id="home"></h2>
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-
-
 # Seja Bem Vindo(a) ao meu perfil!
 
 [MEU PERFIL](#nome)  :heavy_minus_sign:  [TECNOLOGIAS](#tecUtilizadas) :heavy_minus_sign:  [ESTUDANDO](#estudando)  :heavy_minus_sign:  [FORMAÇÃO](#formacao) :heavy_minus_sign: [PRINCIPAIS TRABALHOS](#trabalhos)
@@ -58,7 +55,7 @@
 
 ## Principais Trabalhos
  - :file_folder:Landing Page Avix Camisaria
-    > <a href="https://github.com/frazaovitor/Projeto-AVIX" target="_blank"> Repositório </a>
+    >[Repositório](https://github.com/frazaovitor/Projeto-AVIX)
     > <br>
     > [Página no pages](https://frazaovitor.github.io/Projeto-AVIX/)
     > <br>
