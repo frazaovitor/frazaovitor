@@ -39,4 +39,14 @@
 ## Formação
   - :file_folder:SENAC
      >Tecnologia da Informação 2020
-    
+
+## Principais Trabalhos
+ - :file_folder:Landing Page Avix Camisaria
+    > [Repositório](https://github.com/frazaovitor/Projeto-AVIX)
+    > <br>
+    > [Página no pages](https://frazaovitor.github.io/Projeto-AVIX/)
+    > <br>
+    > [Página do Cliente](https://www.avix.tk/)
+
+
+
