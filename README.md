@@ -6,7 +6,6 @@
 
 <h2 id="nome"></h2>
 
-<br>
 
 ## Vitor da Silva Frazão
 > :older_man: 33
