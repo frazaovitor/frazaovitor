@@ -38,6 +38,7 @@
     > e-commerce
 
 <h2 id="estudando"></h2>
+<br>
 
 ## Estudando e aprimorando
  - :file_folder:JavaScript 
