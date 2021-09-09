@@ -20,6 +20,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frazaovitor)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frazaovitor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 id="tecUtilizadas"></h2>
+<br>
 
 ## Tecnologias mais utilizadas atualmente
  - :file_folder:HTML5
@@ -47,12 +48,14 @@
     > React Native
 
 <h2 id="formacao"></h2>
+<br>
 
 ## Formação
   - :file_folder:SENAC
      >Tecnologia da Informação 2020
 
 <h2 id="trabalhos"></h2>
+<br>
 
 ## Principais Trabalhos
  - :file_folder:Landing Page Avix Camisaria
